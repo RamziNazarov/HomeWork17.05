@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WYKUqpZe16olY13AmGzw3S6PeGz2kThsPXAGueDZ/2jzzBD5I8jwpRSYNwLM64+RVNdzRMw+4GwUACmzwTj4oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Рухшод Назаров\\source\\repos\\HomeWork17.05\\HomeWork17.05\\HomeWork17.05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Рухшод Назаров\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
